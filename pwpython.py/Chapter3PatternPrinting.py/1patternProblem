@@ -1,0 +1,5 @@
+# In any (hard) question of pattern printing find three things
+# 1 row 2 Columns 3 What to print
+n = int(input("Enter n:"))
+for _ in range(n):
+    print("*" * 5)
